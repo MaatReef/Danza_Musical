@@ -65,7 +65,7 @@ const sketch = () => {
 
     context.fillStyle = 'black';
     context.fillRect(0, 0, width, height);
-    textoDias="Quedan " + dias + " días para el 2024"; //texto de prueba
+    textoDias="Quedan " + dias + " oportunidades hasta el 2024"; //texto de prueba
     texto="Click Me"; //texto de prueba
     cancion="Canción: Forty Reasons to be Cheerful - Richard Mills y Tasmanian"; //texto de prueba
     context.beginPath() //iniciar ruta
