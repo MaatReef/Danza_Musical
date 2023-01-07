@@ -13,4 +13,4 @@
 
 ##  Vista Principal  ✔
 
-<img width="400" src="img/danza_musical.png">
+<img width="800" src="img/danza_musical.png">
