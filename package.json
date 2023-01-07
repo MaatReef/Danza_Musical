@@ -4,7 +4,7 @@
   "description": "",
   "main": "sketch-01.js",
   "scripts": {
-    "start": "canvas-sketch DanzaMusical"
+    "start": "npm install & canvas-sketch DanzaMusical"
   },
   "keywords": [],
   "author": "",
